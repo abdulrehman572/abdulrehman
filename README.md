@@ -7,11 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 
-<img align="right" height="150" src="https://via.placeholder.com/150?text=Professional+Photo" alt="Professional Profile Picture" />
-
-###
 
 <div align="left">
   <h3>🌟 Skills & Technologies</h3>

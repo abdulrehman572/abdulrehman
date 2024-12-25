@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abdul Rehman and I'm a Computer Science student at University of Education, Jauharabad Campus.</h2>
+<h2 align="left">Hi 👋! My name is Abdul Rehman and I'm a Computer Science student at University of Education.</h2>
 
 ###
 

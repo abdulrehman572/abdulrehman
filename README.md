@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://via.placeholder.com/150?text=Professional+Photo" alt="Professional Profile Picture" />
 
 ###
 
@@ -17,9 +17,9 @@
   <h3>🌟 Skills & Technologies</h3>
   <p>
     <strong>Programming Languages:</strong>  
-    - C++: Intermediate-level with experience in OOP and DSA(Intermediate).  
-    - JavaScript: Learning.  
-    - Assembly: Low-level programming expertise for hardware-level tasks(intermediate).
+    - C++: Intermediate-level with experience in OOP and DSA.  
+    - JavaScript: Dynamic scripting for web development.  
+    - Assembly: Low-level programming expertise for hardware-level tasks.
   </p>
   <p>
     <strong>Web Development Tools:</strong>  
